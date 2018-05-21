@@ -1,0 +1,19 @@
+{
+  "name": "trivialtdd",
+  "version": "1.0.0",
+  "description": "TDD trivial from scratch",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeresaMarbanCastro/TrivialTDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeresaMarbanCastro/TrivialTDD/issues"
+  },
+  "homepage": "https://github.com/TeresaMarbanCastro/TrivialTDD#readme"
+}
